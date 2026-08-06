@@ -1,0 +1,6 @@
+{
+  "name": "Shree UP Bihar Logistics",
+  "description": "Professional Transport Management System (TMS) for logistics bookings, customers, drivers, expenses, payments, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
